@@ -1,0 +1,29 @@
+'Z' 'k$HcHD(tVs}`VS' < input/ruin.1141
+'-[^0-9] a-c]-@[[^0-9][a--b]A*' '&' < temp-test/2209.inp.936.1
+'@[*[^9-B]' 'a@nb@tc' < temp-test/2113.inp.896.1
+'%-[^9-B]' 'a@nb@tc' < temp-test/1717.inp.731.7
+'\l]#+wVDo{\!?@,5rY]~M\ Wz]`M0)y8H?fc7Phqi}@,5rY]~M\ Wz]`M0)y8H?fc7Phqi}@,5rY]~M\ Wz]`M0)y8H?fc7Phqi}@,5rY]~M\ Wz]`M0)y8H?fc7Phqi}@,5rY]~M\ Wz]`M0)y8H?fc7Phqi}@,5rY]~M\ Wz]`M0)y8H?fc7Phqi}@,5rY]~M\ Wz]`M0)y8H?fc7Phqi}@,5rY]~M\ Wz]`M0)y8H?fc7Phqi}@,5rY]~M\ Wz]`M0)y8H?fc7Phqi}[0-9]*' 'Q$$7 E(2%8Q"fiw^tLWk2\)>Wg( 6h8z$?\aq<W4' < input/ruin.1347
+'@n@@;@@' '60<9:5*f8GULK>.:&6r]A' < input/ruin.1321
+'@n' 'q&' < input/ruin.1194
+'%--%[^9-B][0-9]--[0-9]*-$' '@%@&' < temp-test/18.inp.8.11
+'?[a--]?[9-B]?[0-9][^a-c]' '' < temp-test/2020.inp.857.3
+'*' 'vV{&u2QCx+' < input/ruin.1911
+'?A*?[^a-c?$' '&' < temp-test/335.inp.147.9
+'c*-[^--z]-?' 'a@nb@tc' < temp-test/2275.inp.964.1
+'-[@t]$' 'NEW' < temp-test/1800.inp.765.9
+'?^' 'NEW' < temp-test/414.inp.182.4
+'-[0-9][^-z]@**[^9-B]?[^a--]@[ *[9-B]' '@%@&@' < temp-test/364.inp.159.3
+'$[^9-B][9-B][^]' '@%&a' < temp-test/205.inp.91.3
+'[^0-9][0-9]' 'a@n' < temp-test/2233.inp.947.1
+'@abc'  < moni/t5.inp
+'123[^1-6]*$' '&@&&'  < moni/rr2.t
+'%n331*3456&&&a%@**rlongstringdoesntmatt@t*t*t*tisbutmustbeverylongwhateverthecharactersaredonesntmatteraslonga[\![estringistherightlengthandendswiththerightcharacterlkj45?1234ch$rcha[]acter]]illdojusttypingins[0-9]ars@nandsomeflags@n@t-12345612345?123456-@3@##filedoesntmatt&&eitherasitsneverprocessed&&@@45612345?123456-123456123455?123456-1234561234512345?123456-12345612345?123456-1234561234567890?123456-12345612345?123456-1234561234512345?123456-12345612345?123456-123456[a-c-9]' '[0-9]substringdoesntmatter' < input/ruin.1338
+'-*[^0-9]*$' '&' < temp-test/200.inp.90.1
+'$' '@t' < input/ruin.1121
+'[^a--?[9-B]?[0-9]' 'a@n' < temp-test/1362.inp.584.2
+'[ ]**' 'a' < moni/f7.inp
+'[^Z-a]^_`a-Z-aZ[]^_`a]' '\!5-aA-GZ-a]^_-aA-GZ-a]^_-aA-GZ-a]^_-aA-GZ-a]^_-aA-GZ-a]^_-aA-GZ-a]^_-aA-GZ-a]^_-aA-GZ-a]^_-aA-GZ-a]^_-aA-GZ-a]^_-aA-GZ-a]^_-aA-GZ-a]^_-aA-GZ-a]^_-aA-GZ-a]^_s#S?%gG"i*' < input/ruin.1051
+'[^@@]%-' 'a&' < temp-test/2350.inp.998.1
+'%*$' 'D9RnxwW@{i=z85OwG0--kJo<' < input/ruin.1554
+'?@[*?-]$' '@%&a' < temp-test/353.inp.154.9
+< input/ruin.271

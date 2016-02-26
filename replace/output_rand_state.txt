@@ -1,0 +1,21 @@
+'?\A0b' 'Z' < input/ruin.1555
+'[^0-9]A?' '@n' < temp-test/1833.inp.780.1
+'?[^a-c]$' '@n' < temp-test/1895.inp.803.6
+'%-' '' < temp-test/1650.inp.703.5
+'[^9-B]?[9-B]a-c]' '&' < temp-test/243.inp.108.3
+'[^0-9]@[*' 'a&' < temp-test/1821.inp.774.1
+'[A-G]@@' 'ZSfeyi|K>"6x;;rR<78XU=W{QrkUiM^S5tp<*{,9`9' < input/ruin.329
+'%?[a-c-?' 'a@nb@tc' < temp-test/2202.inp.932.7
+'?@t[^0-9]?[a-c]?' '@n' < temp-test/1055.inp.454.2
+'c*?' '@%&a' < temp-test/355.inp.155.2
+'-?[^a--]@[*[^9-B]A-[@@]' 'a@nb@tc' < temp-test/1725.inp.734.2
+'@n*[^a-c]$' 'b@t' < temp-test/1921.inp.816.9
+'77[6-9]'  < moni/t3.inp
+'c[]*[^a-' 'a@nb@tc' < temp-test/515.inp.224.3
+'@@p&y=3[ZNLF]{HC<5S)0ft3+1A]NLF]{HC<5S)0ft3+1A]NLF]{HC<5S)0ft3+1A]NLF]{HC<5S)0ft3+1A]NLF]{HC<5S)0ft3+1A]NLF]{HC<5S)0ft3+1A]NLF]{HC<5S)0ft3+1A]NLF]{HC<5S)0ft3+1A]NLF]{HC<5S)0ft3+1A]NLF]{HC<5S)0ft3+1A]NLF]{HC<5S)0ft3+1A]NLF]{HC<5S)0ft3+1A]NLF]{HC<5S)0ft3+1A]NLF]{HC<5S)0ft3+1A]NLF]{HC<5S)0ft3+1A]NLF]{H*[0-9]*C<5S)0ft3+1A]YIgTBk-*?* *[a' '+' < input/ruin.1338
+'?@[*?-]' '@%&a@' < temp-test/351.inp.154.1
+'@n**' 'GbrNP(q\!N' < input/ruin.27
+'@n33[^9-0]omea%harlongstringdoesntmatt@twhatitisbutmustbeverylongwhateverthecharactersaredonesntmatteraslongasthestringistherightlengthandendswiththerightcharacterlkj45?1234ch$rcharcacterswilldojusttypinginsomechars@nandsomeflags@n@t-12345612345?123456-@3@##filedoesntmatt&&eitherasitsneverprocessed&&@@45612345?123456-123456123455?123456-1234561234512345?123456-12345612345?123456-1234561234567890?123456-12345612345?123456-1234561234512345?123456-12345612345?123456-123456[a-c-9]' 'substringdoesntmatter' < input/ruin.1338
+'%-??[^0-9][9-B][^9-B]$' 'a&' < temp-test/39.inp.16.11
+'@@' '[5K_$J[8o>B'\''+shEe>eT4x )#X}](v'\''=1Gx2W&\!Ur[8o>B'\''+shEe>eT4x )#X}](v'\''=1Gx2W&\!Ur[8o>B'\''+shEe>eT4x )#X}](v'\''=1Gx2W&\!Ur[8o>B'\''+shEe>eT4x )#X}](v'\''=1Gx2W&\!Ur[8o>B'\''+shEe>eT4x )#X}](v'\''=1Gx2W&\!Ur[8o>B'\''+shEe>eT4x )#X}](v'\''=1Gx2W&\!Ur[8o>B'\''+shEe>eT4x )#X}](v'\''=1Gx2W&\!Ur[8o>B'\''+shEe>eT4x )#X}](v'\''=1Gx2W&\!UrsD[0-9]*[a-b]' < input/ruin.1329
+< input/ruin.1401

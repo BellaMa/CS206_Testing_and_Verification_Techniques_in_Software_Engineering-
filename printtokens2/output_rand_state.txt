@@ -1,0 +1,8 @@
+inputs/uslin.1378
+< inputs/tc321
+inputs/ts789.noeof
+inputs/uslin.1009
+inputs/uslin.639
+inputs/uslin.1655
+inputs/garbage/nothing
+one doesntliketwo

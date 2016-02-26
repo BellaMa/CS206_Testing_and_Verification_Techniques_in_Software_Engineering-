@@ -1,0 +1,82 @@
+total test case: 4072
+total testdata length: 4072
+------------- gneral info --------
+total statement number: 189
+unreachable_Statement total number: 8
+unreachable_Statement_line_number:
+31
+79
+120
+121
+132
+133
+141
+180
+
+total branch number: 109
+unreachable_Branch total number: 7
+unreachable_Branch_line_number:
+14
+17
+38
+52
+61
+70
+98
+
+total statements and branches combined  number: 109
+unreachable_Combined total number: 15
+unreachable_Combined_line_number:
+45
+47
+60
+112
+123
+167
+173
+174
+185
+194
+195
+209
+212
+254
+279
+
+------------- random prioritization ------------
+test cases number (statement coverage):  16 
+these test cases are: 
+
+
+test cases number (branch coverage):  15 
+these test cases are: 
+
+
+test cases number (combined coverage):  18 
+these test cases are: 
+
+
+------------- total prioritization -------------
+test cases number (statement coverage):  6 
+these test cases are: 
+
+
+test cases number (branch coverage):  7 
+these test cases are: 
+
+
+test cases number (combined coverage):  8 
+these test cases are: 
+
+
+------------- additional prioritization --------
+test cases number (statement coverage):  5 
+these test cases are: 
+
+
+test cases number (branch coverage):  6 
+these test cases are: 
+
+
+test cases number (combined coverage):  6 
+these test cases are: 

@@ -1,0 +1,30 @@
+total faultversion: 7
+exposed faults: 
+rand state: 5
+version number: [1, 2, 3, 5, 6]
+
+rand branch: 6
+version number: [1, 2, 3, 4, 5, 6]
+
+rand combined: 6
+version number: [1, 2, 3, 5, 6, 7]
+
+
+total state: 6
+version number: [1, 2, 3, 4, 5, 6]
+
+total branch: 6
+version number: [1, 2, 3, 4, 5, 6]
+
+total combined: 6
+version number: [1, 2, 3, 4, 5, 6]
+
+
+add state: 5
+version number: [1, 2, 3, 5, 6]
+
+add branch: 5
+version number: [1, 2, 3, 5, 6]
+
+add combined: 5
+version number: [1, 2, 3, 5, 6]

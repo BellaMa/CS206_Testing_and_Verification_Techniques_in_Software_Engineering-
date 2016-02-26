@@ -1,0 +1,30 @@
+total faultversion: 41
+exposed faults: 
+rand state: 5
+version number: [1, 14, 18, 36, 40]
+
+rand branch: 6
+version number: [1, 18, 33, 36, 37, 40]
+
+rand combined: 11
+version number: [1, 6, 10, 11, 14, 19, 31, 33, 36, 37, 40]
+
+
+total state: 10
+version number: [1, 7, 17, 23, 28, 30, 35, 36, 38, 40]
+
+total branch: 15
+version number: [1, 2, 3, 14, 18, 22, 23, 28, 29, 30, 33, 35, 36, 37, 40]
+
+total combined: 15
+version number: [1, 2, 3, 14, 18, 22, 23, 28, 29, 30, 33, 35, 36, 37, 40]
+
+
+add state: 10
+version number: [1, 7, 17, 23, 28, 30, 35, 36, 38, 40]
+
+add branch: 17
+version number: [1, 2, 3, 4, 7, 17, 22, 23, 28, 29, 30, 33, 35, 36, 37, 40, 41]
+
+add combined: 17
+version number: [1, 2, 3, 4, 7, 17, 22, 23, 28, 29, 30, 33, 35, 36, 37, 40, 41]

@@ -1,0 +1,13 @@
+total faultversion: 31
+exposed faults: 
+rand state: 8
+rand branch: 31
+rand combined: 31
+
+total state: 31
+total branch: 31
+total combined: 31
+
+add state: 31
+add branch: 31
+add combined: 31

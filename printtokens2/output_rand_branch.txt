@@ -1,0 +1,18 @@
+< inputs/uslin.1441
+< inputs/uslin.1424
+< inputs/test278
+inputs/uslin.90
+inputs/uslin.856
+< inputs/tc263
+< inputs/tst105
+< inputs/newtst25.tst
+< inputs/ts779
+< inputs/test30
+< inputs/tst130
+inputs/uslin.1531
+inputs/uslin.1482
+< inputs/uslin.1145
+< inputs/ts636
+inputs/uslin.1507
+one doesntliketwo
+inputs/garbage/nothing

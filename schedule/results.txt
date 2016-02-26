@@ -1,0 +1,30 @@
+total faultversion: 9
+exposed faults: 
+rand state: 4
+version number: [1, 2, 3, 9]
+
+rand branch: 7
+version number: [1, 2, 3, 4, 5, 7, 9]
+
+rand combined: 1
+version number: [1]
+
+
+total state: 4
+version number: [1, 2, 3, 9]
+
+total branch: 5
+version number: [1, 2, 3, 5, 9]
+
+total combined: 5
+version number: [1, 2, 3, 5, 9]
+
+
+add state: 4
+version number: [1, 2, 3, 9]
+
+add branch: 6
+version number: [1, 2, 3, 5, 6, 9]
+
+add combined: 6
+version number: [1, 2, 3, 5, 6, 9]

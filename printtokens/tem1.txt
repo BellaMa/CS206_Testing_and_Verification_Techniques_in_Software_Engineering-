@@ -1,0 +1,21 @@
+printtokens.c: In function 'main':
+printtokens.c:35: warning: incompatible implicit declaration of built-in function 'exit'
+printtokens.c:42: warning: incompatible implicit declaration of built-in function 'exit'
+printtokens.c: In function 'open_character_stream':
+printtokens.c:65: warning: incompatible implicit declaration of built-in function 'malloc'
+printtokens.c:73: warning: incompatible implicit declaration of built-in function 'exit'
+printtokens.c: In function 'open_token_stream':
+printtokens.c:160: warning: incompatible implicit declaration of built-in function 'malloc'
+printtokens.c: In function 'get_token':
+printtokens.c:188: warning: incompatible implicit declaration of built-in function 'malloc'
+printtokens.c:213: warning: incompatible implicit declaration of built-in function 'strcpy'
+printtokens.c:247: warning: incompatible implicit declaration of built-in function 'strcpy'
+printtokens.c: In function 'numeric_case':
+printtokens.c:285: warning: incompatible implicit declaration of built-in function 'strcpy'
+printtokens.c:292: warning: incompatible implicit declaration of built-in function 'strcpy'
+printtokens.c: In function 'error_or_eof_case':
+printtokens.c:325: warning: incompatible implicit declaration of built-in function 'strcpy'
+printtokens.c: In function 'keyword':
+printtokens.c:368: warning: incompatible implicit declaration of built-in function 'exit'
+printtokens.c: In function 'special':
+printtokens.c:396: warning: incompatible implicit declaration of built-in function 'exit'

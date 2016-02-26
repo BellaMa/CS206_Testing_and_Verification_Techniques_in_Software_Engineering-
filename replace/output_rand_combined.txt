@@ -1,0 +1,24 @@
+'-[^9-B]' '@%&a' < temp-test/2079.inp.881.1
+'-@**' '&a@%' < temp-test/830.inp.358.1
+'[a-c][^0-9]*[a-c]' '&@n' < temp-test/692.inp.300.3
+'?' '#((G)KKH' < input/ruin.1245
+'[c-a]@@?$' 'I>' < input/ruin.29
+'%123[7-9]*' '&@t&'  < moni/rr2.t
+'[^@n]?? *?^a-c][9-B]??-?-[^0-9]' 'a@n' < temp-test/2169.inp.917.4
+'*' ''\'',_{05yQ>]e2Ll},e5b]TTt}JwWxDfD`%\uKmF&L5CRcou0vj/m' < input/ruin.1142
+'[^a-c]@t*' '@t' < temp-test/1187.inp.512.1
+'@@*$' '+' < input/ruin.2000
+'[^>-A]' '}5$dExu:2n)dfDa6,}^W.u#[w1}E_A' < input/ruin.1850
+'[0-&]aal[^\!]inbetweendoesntmatterwhatjustgettingvariety%finthestr&& OK here[@@]' < moni/rr2.t
+'[EZ-a]^_`a]?[^a-c]*?--*?* *[a--b][^a-c][^a-c]*?--*?* *[a--b][^a-c][^a-c]*?--*?* *[a--b][^a-c][^a-c]*?--*?* *[a--b][^a-c][^a-c]*?--*?* *[a--b][^a-c][^a-c]*?--*?* *[a--b][^a-c][^a-c]*?--*?* *[a--b][^a-c][^a-c]*?--*?* *[a--b][^a-c][^a-c]*?--*?* *[a--b][^a-c][^a-c]*?--*?* *[a--b][^a-c][^a-c]*?--*?* *[a--b][^a-c]' 'B6' < input/ruin.1344
+'[^--' '@n' < temp-test/1591.inp.678.1
+'?[-z]?' '' < temp-test/814.inp.350.2
+'@n@@;@@' '60<9:5*f8GULK>.:&6r]A' < input/ruin.1321
+'%[a-z]*[1]**' '&alachamazoo@t@t@&&' < moni/rr4.t
+'9@@*[^Z-a]^_a]' 'thisoneIdontunderstandunlessthestringisalreadylong' < input/ruin.28
+'%*[O]D?' 'dR{6FgfE' < input/ruin.1161
+'?c*@' '@n' < temp-test/349.inp.153.1
+'IlG' < moni/t6.inp
+'@t@nlongtextinbetweendoesntmatterwhatjustgettingvariety%$inthestr&& OK here[@@]' < moni/rr2.t
+'[0-9]' '[[^9-B][_-z]c^a-]^*-?[^0-9]-[^9-B][[^9-B][_-z]c^a-]^*-?[^0-9]-[^9-B][[^9-B][_-z]c^a-]^*-?[^0-9]-[^9-B][[^9-B][_-z]c^a-]^*-?[^0-9]-[^9-B]a&' < temp-test/2266.inp.961.1
+< input/ruin.43
