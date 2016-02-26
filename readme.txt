@@ -1,9 +1,3 @@
-
-
-
-
-
-
 In each program’s directory
 
     first, “python generate_test_suites.py” to generate 9 test suites (output_*.txt) and output.txt
